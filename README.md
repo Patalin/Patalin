@@ -6,12 +6,11 @@ Recent Graduate Developer looking to take the first step into a new career.
 
 INTERESTS:
 <p> 🤩 Improving my coding skills to become a full stack developer 🤩 </p>
-
 <p> 💻 New Technologies </p>
-💸 High interest in the financial markets and global economy.
-💰 Investing, stock market, stock analysis, macroeconomics, global financial systems.
-🖥 Software Development.
-👨‍🏫 Data Analysis.
+<p> 💸 High interest in the financial markets and global economy. </p>
+<p> 💰 Investing, stock market, stock analysis, macroeconomics, global financial systems. </p>
+<p> 🖥 Software Development.</p>
+<p> 👨‍🏫 Data Analysis.</p>
  
 
 ## 💻 Skills
@@ -30,9 +29,6 @@ INTERESTS:
 <a href="https://www.instagram.com/Patalin.py"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
 ## 🏆 GitHub Trophies
 
