@@ -5,12 +5,14 @@ Recent Graduate Developer looking to take the first step into a new career.
 ## 💫 Little Bit More About Me
 
 INTERESTS:
+<p>
 🤩 Improving my coding skills to become a full stack developer 🤩
 💻 New Technologies
 💸 High interest in the financial markets and global economy.
 💰 Investing, stock market, stock analysis, macroeconomics, global financial systems.
 🖥 Software Development.
 👨‍🏫 Data Analysis.
+ </p>
 
 ## 💻 Skills
 <p>
