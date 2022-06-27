@@ -1,3 +1,5 @@
+<p><img src="https://visitcount.itsvg.in/api?id=Patalin&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
 # Hi there 👋, My name is Catalin Palade
 
 Recent Graduate Developer looking to take the first step into a new career.
@@ -42,7 +44,7 @@ INTERESTS:
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Patalin"><p>
 
-<p><img src="https://visitcount.itsvg.in/api?id=Patalin&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
  
  
  ## 🏆 GitHub Trophies
